@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KREST", "KREST\KREST.csproj", "{FE636C43-CBF1-48C8-B590-41F93175B176}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client1", "Client1\Client1.csproj", "{1C5A4BE6-918C-4780-94AD-B71DBF327647}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE636C43-CBF1-48C8-B590-41F93175B176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE636C43-CBF1-48C8-B590-41F93175B176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE636C43-CBF1-48C8-B590-41F93175B176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE636C43-CBF1-48C8-B590-41F93175B176}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C5A4BE6-918C-4780-94AD-B71DBF327647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C5A4BE6-918C-4780-94AD-B71DBF327647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C5A4BE6-918C-4780-94AD-B71DBF327647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C5A4BE6-918C-4780-94AD-B71DBF327647}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF02CE1F-6AA9-4EF2-B027-B9DA4C85E08D}
+	EndGlobalSection
+EndGlobal

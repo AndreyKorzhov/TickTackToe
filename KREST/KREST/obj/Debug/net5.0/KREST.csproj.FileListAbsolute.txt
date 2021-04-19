@@ -1,0 +1,16 @@
+D:\Programming\KorzhovC#\KREST\KREST\bin\Debug\net5.0\KREST.exe
+D:\Programming\KorzhovC#\KREST\KREST\bin\Debug\net5.0\KREST.deps.json
+D:\Programming\KorzhovC#\KREST\KREST\bin\Debug\net5.0\KREST.runtimeconfig.json
+D:\Programming\KorzhovC#\KREST\KREST\bin\Debug\net5.0\KREST.runtimeconfig.dev.json
+D:\Programming\KorzhovC#\KREST\KREST\bin\Debug\net5.0\KREST.dll
+D:\Programming\KorzhovC#\KREST\KREST\bin\Debug\net5.0\ref\KREST.dll
+D:\Programming\KorzhovC#\KREST\KREST\bin\Debug\net5.0\KREST.pdb
+D:\Programming\KorzhovC#\KREST\KREST\obj\Debug\net5.0\KREST.csprojAssemblyReference.cache
+D:\Programming\KorzhovC#\KREST\KREST\obj\Debug\net5.0\KREST.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\KorzhovC#\KREST\KREST\obj\Debug\net5.0\KREST.AssemblyInfoInputs.cache
+D:\Programming\KorzhovC#\KREST\KREST\obj\Debug\net5.0\KREST.AssemblyInfo.cs
+D:\Programming\KorzhovC#\KREST\KREST\obj\Debug\net5.0\KREST.csproj.CoreCompileInputs.cache
+D:\Programming\KorzhovC#\KREST\KREST\obj\Debug\net5.0\KREST.dll
+D:\Programming\KorzhovC#\KREST\KREST\obj\Debug\net5.0\ref\KREST.dll
+D:\Programming\KorzhovC#\KREST\KREST\obj\Debug\net5.0\KREST.pdb
+D:\Programming\KorzhovC#\KREST\KREST\obj\Debug\net5.0\KREST.genruntimeconfig.cache

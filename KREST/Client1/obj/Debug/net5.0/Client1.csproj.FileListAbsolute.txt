@@ -1,0 +1,16 @@
+D:\Programming\KorzhovC#\KREST\Client1\bin\Debug\net5.0\Client1.exe
+D:\Programming\KorzhovC#\KREST\Client1\bin\Debug\net5.0\Client1.deps.json
+D:\Programming\KorzhovC#\KREST\Client1\bin\Debug\net5.0\Client1.runtimeconfig.json
+D:\Programming\KorzhovC#\KREST\Client1\bin\Debug\net5.0\Client1.runtimeconfig.dev.json
+D:\Programming\KorzhovC#\KREST\Client1\bin\Debug\net5.0\Client1.dll
+D:\Programming\KorzhovC#\KREST\Client1\bin\Debug\net5.0\ref\Client1.dll
+D:\Programming\KorzhovC#\KREST\Client1\bin\Debug\net5.0\Client1.pdb
+D:\Programming\KorzhovC#\KREST\Client1\obj\Debug\net5.0\Client1.csprojAssemblyReference.cache
+D:\Programming\KorzhovC#\KREST\Client1\obj\Debug\net5.0\Client1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\KorzhovC#\KREST\Client1\obj\Debug\net5.0\Client1.AssemblyInfoInputs.cache
+D:\Programming\KorzhovC#\KREST\Client1\obj\Debug\net5.0\Client1.AssemblyInfo.cs
+D:\Programming\KorzhovC#\KREST\Client1\obj\Debug\net5.0\Client1.csproj.CoreCompileInputs.cache
+D:\Programming\KorzhovC#\KREST\Client1\obj\Debug\net5.0\Client1.dll
+D:\Programming\KorzhovC#\KREST\Client1\obj\Debug\net5.0\ref\Client1.dll
+D:\Programming\KorzhovC#\KREST\Client1\obj\Debug\net5.0\Client1.pdb
+D:\Programming\KorzhovC#\KREST\Client1\obj\Debug\net5.0\Client1.genruntimeconfig.cache
